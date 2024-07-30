@@ -6,7 +6,7 @@
 
 <div class="github-introduction">
 
-Im a **Web Developer** who loves to bring ideas to life in the browser. I grew up in the 90's early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
+I'm a **Computer Science Engineer** with a knack for building web applications. Fascinated by the potential of **Web3**, I'm passionate about learning **smart contracts** and harnessing the power of **decentralization** to make the world a better place. Let's connect and build the future of the internet together! 🌐🚀
 
 </div>
 
