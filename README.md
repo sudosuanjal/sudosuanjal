@@ -55,25 +55,25 @@ I'm a **Computer Science Engineer** with a knack for building web applications. 
   <a href="https://www.instagram.com/sudosuanjal/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://dev.to/sudosuanjal">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://discord.com/users/sudosuanjal">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/sudosuanjal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="mailto:anjalkbijuoffical@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sudosuanjal/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://stackoverflow.com/users/22212559/anjal-k-biju">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://x.com/sudosuanjal">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
