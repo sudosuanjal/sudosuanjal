@@ -1,8 +1,8 @@
-[![header](./banner.png)](https://aar.one)
+[![header](./banner.png)](https://www.linkedin.com/in/sudosuanjal/)
 
-# Oi, World! Im Aaron 👋
+# Oi, World! Im Anjal 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=sudosuanjal&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
