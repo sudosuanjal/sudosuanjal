@@ -49,3 +49,33 @@ I'm a **Computer Science Engineer** with a knack for building web applications. 
 
 </div>
 </div>
+
+
+<p align="center">
+  <a href="https://www.instagram.com/sudosuanjal/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+
