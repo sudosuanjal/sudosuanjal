@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://www.linkedin.com/in/sudosuanjal/)
+[![header](./outwork_everyone.png)](https://www.linkedin.com/in/sudosuanjal/)
 
 # Oi, World! Im Anjal 👋
 
